@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Omry Wzekrayatoh
+
+This log tracks the cryptographic history and versioning for the song **Omry Wzekrayatoh** (omry-wzekrayatoh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:21:40.987623 | `v1` | `b6889152cdf575ede9fc05542d53d2d21a16fb6d12a5ccdb39e89f2d50083e2c` | `bf4285d38829ee86e6edf779dad1a8fa29d45472967e2ce09f488ab452c95f5b` | `2026-05-09_omry-wzekrayatoh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
